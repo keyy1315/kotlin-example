@@ -1,0 +1,9 @@
+build/
+.gradle/
+.git/
+.gitignore
+Dockerfile
+src/test/
+*.iml
+*.log
+out/ 
